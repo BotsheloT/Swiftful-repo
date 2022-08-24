@@ -34,6 +34,7 @@ struct SecondView: View {
             
             Text("This is my first time being here so please make sure to be nice to me guys.").multilineTextAlignment(.center)
                 .font(.headline)
+                .padding()
             //This is for text arrangements when they have many lines
         }
         
