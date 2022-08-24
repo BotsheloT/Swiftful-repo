@@ -11,6 +11,7 @@
 		0328975B28AC313D00BA7B39 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0328975A28AC313D00BA7B39 /* ContentView.swift */; };
 		0328975D28AC314200BA7B39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0328975C28AC314200BA7B39 /* Assets.xcassets */; };
 		0328976028AC314200BA7B39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0328975F28AC314200BA7B39 /* Preview Assets.xcassets */; };
+		03A4BB1B28B6AF9400D3B4BF /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A4BB1A28B6AF9400D3B4BF /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0328975A28AC313D00BA7B39 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0328975C28AC314200BA7B39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0328975F28AC314200BA7B39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		03A4BB1A28B6AF9400D3B4BF /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0328975828AC313D00BA7B39 /* SwiftfulThinkingApp.swift */,
 				0328975A28AC313D00BA7B39 /* ContentView.swift */,
+				03A4BB1A28B6AF9400D3B4BF /* SecondView.swift */,
 				0328975C28AC314200BA7B39 /* Assets.xcassets */,
 				0328975E28AC314200BA7B39 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03A4BB1B28B6AF9400D3B4BF /* SecondView.swift in Sources */,
 				0328975B28AC313D00BA7B39 /* ContentView.swift in Sources */,
 				0328975928AC313D00BA7B39 /* SwiftfulThinkingApp.swift in Sources */,
 			);
