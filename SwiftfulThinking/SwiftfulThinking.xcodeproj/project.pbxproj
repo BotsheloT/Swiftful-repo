@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0328975528AC313D00BA7B39 /* SwiftfulThinking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinking.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0328975528AC313D00BA7B39 /* Boot Camp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Boot Camp.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0328975828AC313D00BA7B39 /* SwiftfulThinkingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingApp.swift; sourceTree = "<group>"; };
 		0328975A28AC313D00BA7B39 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0328975C28AC314200BA7B39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		0328975628AC313D00BA7B39 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0328975528AC313D00BA7B39 /* SwiftfulThinking.app */,
+				0328975528AC313D00BA7B39 /* Boot Camp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = SwiftfulThinking;
 			productName = SwiftfulThinking;
-			productReference = 0328975528AC313D00BA7B39 /* SwiftfulThinking.app */;
+			productReference = 0328975528AC313D00BA7B39 /* Boot Camp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -281,7 +281,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = BT.SwiftfulThinking;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Boot Camp";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +310,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = BT.SwiftfulThinking;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Boot Camp";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
