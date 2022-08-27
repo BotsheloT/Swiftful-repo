@@ -14,6 +14,7 @@
 		03A4BB1B28B6AF9400D3B4BF /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03A4BB1A28B6AF9400D3B4BF /* SecondView.swift */; };
 		03D105EA28B95E750051B10A /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03D105E928B95E740051B10A /* ShapeView.swift */; };
 		03D105EC28B9630F0051B10A /* ColorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03D105EB28B9630F0051B10A /* ColorsView.swift */; };
+		03ED9E6928BAB618000C6970 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03ED9E6828BAB618000C6970 /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		03A4BB1A28B6AF9400D3B4BF /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		03D105E928B95E740051B10A /* ShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
 		03D105EB28B9630F0051B10A /* ColorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsView.swift; sourceTree = "<group>"; };
+		03ED9E6828BAB618000C6970 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0328975828AC313D00BA7B39 /* SwiftfulThinkingApp.swift */,
 				0328975A28AC313D00BA7B39 /* ContentView.swift */,
 				03D105E928B95E740051B10A /* ShapeView.swift */,
+				03ED9E6828BAB618000C6970 /* GradientView.swift */,
 				03D105EB28B9630F0051B10A /* ColorsView.swift */,
 				03A4BB1A28B6AF9400D3B4BF /* SecondView.swift */,
 				0328975C28AC314200BA7B39 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 			files = (
 				03A4BB1B28B6AF9400D3B4BF /* SecondView.swift in Sources */,
 				0328975B28AC313D00BA7B39 /* ContentView.swift in Sources */,
+				03ED9E6928BAB618000C6970 /* GradientView.swift in Sources */,
 				03D105EC28B9630F0051B10A /* ColorsView.swift in Sources */,
 				03D105EA28B95E750051B10A /* ShapeView.swift in Sources */,
 				0328975928AC313D00BA7B39 /* SwiftfulThinkingApp.swift in Sources */,
